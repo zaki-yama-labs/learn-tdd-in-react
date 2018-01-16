@@ -1,15 +1,8 @@
-Redux-Express Template
-======================
+Learn TDD in React
+==================
 
-A boilerplate for developing Express app with React&Redux.
+[Learn TDD in React](http://learntdd.in/react/)
 
-### Stack
-
-* ES2015 (Babel)
-* React & Redux
-* Express
-* ESLint
-* Webpack & Webpack Dev Server
 
 ### Usage
 
